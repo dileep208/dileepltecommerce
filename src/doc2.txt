@@ -1,3 +1,4 @@
 second step of learning git
 adding documentation
 --------------------
+import os
