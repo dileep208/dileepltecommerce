@@ -3,8 +3,6 @@ print('this is an exercise1')
 print('this is an exercise1')
 print('this is an exercise1')
 
-<<<<<<< HEAD
-=======
 # define a flag variable
 flag = False
 
@@ -25,4 +23,3 @@ else:
     print(num, "is a prime number")
 
 print('dileep one')
->>>>>>> v2.1
