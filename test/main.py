@@ -3,3 +3,7 @@ print('this is an exercise1')
 print('this is an exercise1')
 print('this is an exercise1')
 print('this is an exercise12')
+
+define test_start_app():
+       pass
+     
