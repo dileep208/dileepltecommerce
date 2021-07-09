@@ -14,3 +14,5 @@ define test_start_app():
 print('this is for merge branch after pull')     
 def login1():
     pass
+def test_logout():
+    pass
