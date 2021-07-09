@@ -10,3 +10,5 @@ def login():
 
 define test_start_app():
        pass
+def login1():
+    pass
